@@ -31,3 +31,14 @@ Respondent count for countries
 Respondent count by age
 
 Respondent count by gender and classified by education level
+## Key Insights of the project:
+- [x] Data technologies are more famous in USA, India, Germany, and United Kingdome compared to the rest of world.
+- [x] The male population is dominant for data technologies.
+- [x] Undergrad and graduate millennials occupy most of the population working in data technologies.
+- [x] The incline of platforms used for development is shifting from windows and MacOS to AWS, Microsoft Azure, Kubernetes, and Docker. The popularity of Linux stays the same.
+
+## Soft Skills:
+- [x]	Refined understanding of programming languages trends.
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
